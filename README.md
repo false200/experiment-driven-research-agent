@@ -1,6 +1,6 @@
-# Experiment-Driven Research Agent
+# Experiment-Driven Research Skill
 
-Guides AI agents through literature-grounded research, reproducible experiments, statistical evaluation, and evidence-based IEEE Access/Q1 manuscript preparation.
+A skill for literature-grounded research, reproducible experiments, statistical evaluation, and evidence-based IEEE Access/Q1 manuscript preparation.
 
 ## What it is designed to do
 
@@ -12,7 +12,7 @@ Guides AI agents through literature-grounded research, reproducible experiments,
 
 ## Important operating rule
 
-This skill provides instructions, not guaranteed compute, data access, subscriptions, or experimental results. The agent must distinguish completed experiments from proposed work, cite verifiable sources, report failed runs and limitations, and never fabricate citations, measurements, or claims.
+This skill provides instructions, not guaranteed compute, data access, subscriptions, or experimental results. It requires completed experiments to be distinguished from proposed work, citations to come from verifiable sources, failed runs and limitations to be reported, and citations, measurements, and claims never to be fabricated.
 
 ## Contents
 
