@@ -1,6 +1,6 @@
 # Experiment-Driven Research Agent
 
-An Agent Skills-format package for turning a research topic into a literature-grounded, experimentally evaluated scientific study and manuscript.
+Guides AI agents through literature-grounded research, reproducible experiments, statistical evaluation, and evidence-based IEEE Access/Q1 manuscript preparation.
 
 ## What it is designed to do
 
