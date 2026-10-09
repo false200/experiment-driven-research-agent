@@ -1,5 +1,5 @@
 ---
-name: experiment-driven-research-agent
+name: research-agent-skill
 description: Guides AI agents through literature-grounded research, reproducible experiments, statistical evaluation, and evidence-based IEEE Access/Q1 manuscript preparation.
 ---
 
